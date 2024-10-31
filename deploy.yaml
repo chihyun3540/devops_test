@@ -34,5 +34,5 @@ spec:
     - protocol: TCP
       port: 80
       targetPort: 8000
-      nodePort: 30080  # NodePort 직접 지정 (예시)
+      nodePort: 30078  # NodePort 직접 지정 (예시)
   type: NodePort
